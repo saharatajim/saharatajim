@@ -27,7 +27,7 @@ I enjoy learning new tools, building projects, and improving every day.
 ## 🛠️ Skills
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
