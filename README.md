@@ -35,11 +35,11 @@ I enjoy learning new tools, building projects, and improving every day.
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saharatajim&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharatajim&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatajim&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saharatajim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saharatajim&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatajim&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -62,13 +62,14 @@ I enjoy learning new tools, building projects, and improving every day.
 ---
 
 ## 🎯 Goals for 2026
-- Build real-world projects  
-- Master MERN Stack  
-- Start open source contribution  
-- Improve DSA & Problem Solving  
-- Become internship ready
+- [ ] 🚀 Build & Deploy Real-world Projects
+- [ ] ⚛️ Master MERN Stack Development
+- [ ] 🤝 Start Open Source Contributions
+- [ ] 🧠 Master DSA & Problem Solving
+- [ ] 💼 Become Internship Ready
 
 ---
 
-⭐ From Sahara Tajim
+<p align="center"><b>⭐ From Sahara Tajim</b></p>
+
 
