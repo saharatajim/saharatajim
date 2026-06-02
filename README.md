@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=230&section=header&text=Sahara%20Tajim&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20|%20Aspiring%20Software%20Developer&descAlignY=67&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=230&section=header&text=Sahara%20Tajim&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20|%20Junior%20Web%20Developer&descAlignY=67&descSize=16"/>
 </p>
 
 # 👋 Hi, I'm Sahara Tajim
