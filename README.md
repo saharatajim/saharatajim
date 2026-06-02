@@ -4,7 +4,7 @@
 </p>
 
 # 👋 Hi, I'm Sahara Tajim
-### 💻 CSE Student | Aspiring Software Developer |
+### 💻 CSE Student | Junior Web Developer |
 
 ---
 
